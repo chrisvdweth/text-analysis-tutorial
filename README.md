@@ -2,6 +2,7 @@
 
 ## Requirements
 
+To check if your Python installation is correct -- i.e., it contains the right Python version and all required packages -- you can run the Python script [`importcheck.py`](https://github.com/chrisvdweth/text-analysis-tutorial/blob/master/utils/importcheck.py). This script tries to import all the packages needed for the tutorial. If it runs trough without any errors, your setup is working.
 
 ### Python
 
@@ -34,7 +35,7 @@ The following packages also need to be installed:
 
 ### Data and Models
 
-Some of the packages require some additional data
+Some of the packages require additional data.
 
 #### spacy
 
