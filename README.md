@@ -1,5 +1,12 @@
 # Text Analysis Tutorial
 
+## Download
+
+The tutorial is a set of Jupyter Notebooks together with some auxiliary files as well as example data in form text files. The whole folder is available as ZIP arhive for [download here](http://185.170.113.47/data/downloads/text-analysis-tutorial.zip).
+
+To set up the tutorial, download the archive, extract the containing folder `text-analysis-tutorial` and copy it into the folder from which you start your local Jupyter installation. In your Jupyter environment ([http://localhost:8888/tree](http://localhost:8888/tree)) you should then be able to see or navigate to the folder of the tutorial.
+
+
 ## Requirements
 
 To check if your Python installation is correct -- i.e., it contains the right Python version and all required packages -- you can run the Python script [`importcheck.py`](https://github.com/chrisvdweth/text-analysis-tutorial/blob/master/utils/importcheck.py). This script tries to import all the packages needed for the tutorial. If it runs trough without any errors, your setup is working.
