@@ -2,6 +2,8 @@
 
 ## Download
 
+The slides are available for [download here](http://185.170.113.47/data/downloads/SDSC-Text-Analysis-slides.zip).
+
 The tutorial is a set of Jupyter Notebooks together with some auxiliary files as well as example data in form text files. The whole folder is available as ZIP archive for [download here](http://185.170.113.47/data/downloads/text-analysis-tutorial.zip) (62MB).
 
 To set up the tutorial, download the archive, extract the containing folder `text-analysis-tutorial` and copy it into the folder from which you start your local Jupyter installation. In your Jupyter environment ([http://localhost:8888/tree](http://localhost:8888/tree)) you should then be able to see or navigate to the folder of the tutorial.
